@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ml.liuchibing.harmonicssolver.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-12-01T07:08:05" hostname="localhost" time="1.568">
+  <properties/>
+  <testcase name="parseTest" classname="ml.liuchibing.harmonicssolver.MainTest" time="1.568"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

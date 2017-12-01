@@ -1,3 +1,7 @@
 package ml.liuchibing.harmonicssolver.adts
 
-data class Score(val voices: List<Voice>)
+import org.w3c.dom.Element
+
+class Score(val node: Element) {
+    val parts: MutableList<Part> = mutableListOf()
+}
