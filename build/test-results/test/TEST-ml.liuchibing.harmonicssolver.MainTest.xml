@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ml.liuchibing.harmonicssolver.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-12-01T15:02:19" hostname="CHARLIE-LPC" time="38.931">
+<testsuite name="ml.liuchibing.harmonicssolver.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-12-04T00:28:34" hostname="localhost" time="552.955">
   <properties/>
-  <testcase name="parseTest" classname="ml.liuchibing.harmonicssolver.MainTest" time="38.931"/>
+  <testcase name="parseTest" classname="ml.liuchibing.harmonicssolver.MainTest" time="552.955"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

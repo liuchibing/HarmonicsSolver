@@ -6,11 +6,11 @@ import ml.liuchibing.harmonicssolver.adts.Score
 import org.w3c.dom.Element
 import org.xml.sax.InputSource
 import java.io.InputStream
-import java.net.URL
 import javax.xml.parsers.DocumentBuilderFactory
 
 class MusicXMLConverter {
     companion object {
+        @JvmStatic
         fun parse(src: InputStream) {
             //Create DOM
             val factory = DocumentBuilderFactory.newInstance()
